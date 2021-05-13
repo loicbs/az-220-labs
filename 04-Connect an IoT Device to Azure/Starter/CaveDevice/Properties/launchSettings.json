@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CaveDevice": {
+      "commandName": "Project",
+      "commandLineArgs": "HostName=lbs-az220-iot.azure-devices.net;DeviceId=MyDevice;SharedAccessKey=GrjRdRZc8zNGq/C+oN/J3JssGguGXtcYbWUzPacYaS0="
+    }
+  }
+}
